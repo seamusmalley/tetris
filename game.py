@@ -28,10 +28,13 @@ while playing:
                 pressing_down = True
             if event.key == pygame.K_LEFT:
                 # TODO move left
+                pass
             if event.key == pygame.K_RIGHT:
                 # TODO move right
+                pass
             if event.key == pygame.K_SPACE:
                 # TODO drop
+                pass
             if event.key == pygame.K_ESCAPE:
                 game.__init__(20, 10)
 
