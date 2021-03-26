@@ -1,6 +1,4 @@
-import pygame
 import random
-
 from assets import tetrominos, shapes, colors
 
 

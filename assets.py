@@ -1,6 +1,7 @@
+# names of different game pieces
 tetrominos = ['I', 'O', 'T', 'J', 'L', 'S', 'Z']
 
-# SHAPES
+# shape layouts
 I = [
     [[0, 1, 0, 0],
      [0, 1, 0, 0],
@@ -109,7 +110,7 @@ shapes = {
 }
 
 
-# COLORS
+# rgb color values for the game pieces
 red = (255, 0, 0)
 yellow = (255, 255, 0)
 purple = (148, 0, 211)
